@@ -125,7 +125,17 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Selenium', 'Appium', 'JMeter', 'Postman', 'Cypress.io', 'Katalon Studio', 'Git', 'Github'];
+  const skills = [
+    'Python',
+    'Selenium',
+    'Appium',
+    'JMeter',
+    'Postman',
+    'Cypress.io',
+    'Katalon Studio',
+    'Git',
+    'Github',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,7 +145,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hello! My name is Syarif Ridhohidayatulloh and I am an experienced QA professional skilled in both manual and automated testing. I am dedicated to continuous learning and implementing the latest trends in software development to ensure that the products I work on meet the highest standards of quality. My passion for testing and software development began 2022 when I started exploring various testing techniques and tools. Over the years, I have gained expertise in Python, Selenium, Appium, JMeter, Postman, Cypress.io, Github, Katalon Studio, and I am always looking for new challenges to further enhance my skills.
+              Hello! My name is Syarif Ridhohidayatulloh and I am an experienced QA professional
+              skilled in both manual and automated testing. I am dedicated to continuous learning
+              and implementing the latest trends in software development to ensure that the products
+              I work on meet the highest standards of quality.
+            </p>
+            <p>
+              My passion for testing and software development began 2022 when I started exploring
+              various testing techniques and tools. Over the years, I have gained expertise in
+              Python, Selenium, Appium, JMeter, Postman, Cypress.io, Github, Katalon Studio, and I
+              am always looking for new challenges to further enhance my skills.
             </p>
 
             {/* <p>
