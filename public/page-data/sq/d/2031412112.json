@@ -1,1 +1,144 @@
-{"data":{"featured":{"edges":[{"node":{"frontmatter":{"title":"FGA Kominfo x Binar Academy","cover":{"childImageSharp":{"gatsbyImageData":{"layout":"constrained","placeholder":{"fallback":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACyUlEQVQ4y4WR2U8TURyF+3/omyiugEqlolhQEYlLS9VW0WhQEDcWlwjuGvXB8MCDESkg1RgXFjU+uCRoNC7hxUdjNJpo6VCotp3O2mKFz8xMJEhMnOTL+d0795x7JmOb53BhMDdvPX9mg9mL1jPLbjFxnnhussfANvGFpZaxZM0Gtm/14fV6WevayLZyH1s2e8ktcDN7QvDkUNvkG3KWlJnkLvOwyOnB7vSMz4uLPOQWeMjJLyM73/3Ptra5ecbC2jDIWuzG7tzIgqUeFhZswO7cRN5yH3anF3uhF8dyH3lFPuYv8ZDlcDPH9LlMn+G3zXOswyDLYYRZZOe7TKOhM+aXMD2nmOnZxaZmZK8kI2sF03KKmZFbwsKlbtOfuaDUali+q5aDJy6w9/ApahvOUdNwlur645xvusLJ801U7jvE7gOH2VNzhH31jVTXHGFnVQ076o5SfeIY7f52LjW3sGJNObPs67CdudhMx40u2gJ3CNzs5sbt+/Q+fsbDpy+IxkT+9/xMp01tv97DlMxCbBVVtSxzFlNSWsaq1S7z9qev+nn55h1iQkbTVARBYDgSQdN0NE0bR9d1ZFkxA/2BbqbOLMRWV9dARdVeKvfXU7H7AI2nL/D4dT9P3vYTiYuIssxgJMI3QUAYHkZJJk1kXUdRVOJx6yvajECjYfO1u7wfFBiTVUYTKr/iMumYhBaNgqyDkmJM0kBNgTYCyTToI5D6hSoriGLCatjZZTU8fjlA38cQAUnhyvcftMkKflWjQ0+Z2ppM0aJq+JMp/LJCqyRzNZmiQ9UZSkiIsdjfga2dt/gYDPEgFOLuly/0DgS5J4ToCgbpCYXoDYe5Fx6kWwjRY+wNBAl8/krnh898TySQpEkNWzrvEB6OMCZJjMRipMU4o4kEP81ZJB2Pg6Kaa2VoiJFolMjXMMFPAzzve8GD3keMjqbH//Jvy6G0assqnjcAAAAASUVORK5CYII="},"images":{"fallback":{"src":"/static/6269497d6dce7e0f86a6fabb777deb56/d2194/binarAcademy.png","srcSet":"/static/6269497d6dce7e0f86a6fabb777deb56/cebcc/binarAcademy.png 175w,\n/static/6269497d6dce7e0f86a6fabb777deb56/272cf/binarAcademy.png 350w,\n/static/6269497d6dce7e0f86a6fabb777deb56/d2194/binarAcademy.png 700w","sizes":"(min-width: 700px) 700px, 100vw"},"sources":[{"srcSet":"/static/6269497d6dce7e0f86a6fabb777deb56/9aa63/binarAcademy.avif 175w,\n/static/6269497d6dce7e0f86a6fabb777deb56/e6db6/binarAcademy.avif 350w,\n/static/6269497d6dce7e0f86a6fabb777deb56/f47db/binarAcademy.avif 700w","type":"image/avif","sizes":"(min-width: 700px) 700px, 100vw"},{"srcSet":"/static/6269497d6dce7e0f86a6fabb777deb56/240e7/binarAcademy.webp 175w,\n/static/6269497d6dce7e0f86a6fabb777deb56/faefe/binarAcademy.webp 350w,\n/static/6269497d6dce7e0f86a6fabb777deb56/d5dc4/binarAcademy.webp 700w","type":"image/webp","sizes":"(min-width: 700px) 700px, 100vw"}]},"width":700,"height":438}}},"tech":["Test Case","Bug Reports","Manual Testing","Postman Rest API","Trello"],"github":null,"external":null,"cta":null},"html":"<p>Bootcamp program that learns to become Quality Assurance with strong fundamentals for software quality testing organized by <a href=\"https://digitalent.kominfo.go.id/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Digitalent Kominfo</a> with <a href=\"https://www.binaracademy.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Binar Academy</a>.</p>"}},{"node":{"frontmatter":{"title":"Bootcamp Quality Assurance","cover":{"childImageSharp":{"gatsbyImageData":{"layout":"constrained","placeholder":{"fallback":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAC1UlEQVQ4y12R30tTcRjGd91Fd5XRNKu5qTnndJubc/7qF6XpplMroygLwrCIfkB10f/QRUVRu6ksiSiDwqKLoC4CgyiyUmm0s5xzm2cez9Z+5Sd2ZrX8wsP7fJ/3eZ/3ezgqvbWDitp2sjUf5ZZ2ysw55PPl3uV3Vb6Q47nBHa1dHOjrpaenm7YON/v39bJ3Tw8mh1NZkPX+mc3nqnzBUOekyu5SanW9C0tjJ+bGTkwNLqXamjupcbiotDkxZn02J8sfpNIrghO9zUWVvXMJXf9qfRdGexfGerfCqx1uahxuTI3dCq+syy34F2jtoMzYSLHWRLHOiqbSQXGphcISC2qNmfU6Kxs22ykqrUWtsVCwvopVRVWsVmCgUGtFa9xJmakt98nZ9IrqBkoMVgp1VkpMLZTXNrDRUEdxhR21tpYK8xaadvaytXU/29u6adnhwta8G2tTGy27eml1H8O+rY9y825U2ppWinQW1mgMrCwoo0BjYVOljcJyG2u1NlasKuXYiQtkT3R+gYVYnFhMRlrIIRqdV3qXr91GXdqMau/BU5w8NMBRVx/9/YP0nzjPkcGzDJy+yOC5SxweOMOd4Ufkn5mZAILwnZgs/9Wue4ZZp2tCdffKTbyDx3mj1zN29QqTn8YJjE8gCgKx4AxyYJqfoqgMSVIMQQgjigmi0SSSJDO31Lt2634u8M6tIWZHHjPh8TB59x7jT+7zYfQ230ZG+Dw0xEePB+H1a2VIluOEQhKynEaSkiSTKRKJxP+BDx4/z21PpUhkfiGlZcLpCFFZ5rsgMOn1EgyHFU88HsPv9xEJh0gk4iwu/iKTyfwNVGcDhx8+g0wawecjEokwPxNgbmqS0Ows36ammPj6hWAwuBT4E/+PacKROZKpFItAMpVe/sJRRRBFETEiMi0H8Ga8yv2H348g+AiFQorHFwgy/PIVL8be8+TNWwVP375TejeWfspv3lKV05kG5VEAAAAASUVORK5CYII="},"images":{"fallback":{"src":"/static/792d80fef0579e0514a753ad699d21b1/d2194/Sanbercode.png","srcSet":"/static/792d80fef0579e0514a753ad699d21b1/cebcc/Sanbercode.png 175w,\n/static/792d80fef0579e0514a753ad699d21b1/272cf/Sanbercode.png 350w,\n/static/792d80fef0579e0514a753ad699d21b1/d2194/Sanbercode.png 700w","sizes":"(min-width: 700px) 700px, 100vw"},"sources":[{"srcSet":"/static/792d80fef0579e0514a753ad699d21b1/9aa63/Sanbercode.avif 175w,\n/static/792d80fef0579e0514a753ad699d21b1/e6db6/Sanbercode.avif 350w,\n/static/792d80fef0579e0514a753ad699d21b1/f47db/Sanbercode.avif 700w","type":"image/avif","sizes":"(min-width: 700px) 700px, 100vw"},{"srcSet":"/static/792d80fef0579e0514a753ad699d21b1/240e7/Sanbercode.webp 175w,\n/static/792d80fef0579e0514a753ad699d21b1/faefe/Sanbercode.webp 350w,\n/static/792d80fef0579e0514a753ad699d21b1/d5dc4/Sanbercode.webp 700w","type":"image/webp","sizes":"(min-width: 700px) 700px, 100vw"}]},"width":700,"height":438}}},"tech":["Python","Manual Tesing","Automation Testing","Test Plan, Case, Bug Reports","Testing API Postman",null],"github":"https://github.com/SyarifRH/SanbercodeQA-Kelompok14","external":"https://github.com/SyarifRH/SanbercodeQA-Kelompok14","cta":null},"html":"<p>Perform Manual and Automation tests with documentation of test plans, cases, scenarios, bug reports, with Selenium Web Driver automation tools by <a href=\"https://sanbercode.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Sanbercode</a>.</p>"}},{"node":{"frontmatter":{"title":"Web Services Restfull API","cover":{"childImageSharp":{"gatsbyImageData":{"layout":"constrained","placeholder":{"fallback":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACsElEQVQ4y3WTy08TURSH+UuIEZ9EaTWIPGLEJyJGUQoqRuOWpUs3rlgoCyXQ0moQQcXgQg1SETTG6AYiGqMLA6iptJQy0HY603ZmOu3wmblNUYje5Jdz7rm533nk3qKdlacoaMfek0K2X1pxku178vrbL5wX7HoV/Q0r+PbFuoYmLl04S0tLMydOubjYepbz51oo39coEqwvYBVYCDiqG1e1e18TFbVNVB5wUXXQxd5al/BrDjVTUevCWXMGR/VpobKqxjXQIjtgq8RRx8ayo5SU1bHFWc9mZz0ljmNsctSJMztu7zc787GNO48Ibd19fE2HRVt21bOtvIH2jm663X3c6Oqho8dLl/c23t77+Poec6dviNt9Q/juPsDdO4ind4iuO4/wDjzlcttVkcQuSgDbrlzD471HIPCTjJ7CMNMoaRlpOYK0JBFLqBiGjpkx0HQVNamQTCaFVoCbnnsUlx7CWXM6D+zyDTA9M0sgFOb7rxCmkUGWFcILSyTUNDFZJZXW0DQdXTdQVRVJkoTA4pa7fx3Qe5+JiQ/MRWJMByWikkQsHsc0M8AK2azJimWRsywsy8IwDEwzSy5nYa/OngGKSw/+AXb7HjA5+ZHQYoSZwA+khUVkWSYWixOPy8TjceREgmRSFTahKORyuf8DO30PeT/1lVAwyFxgTsxGUfJzSqfSRJejLC9H0XUdM5slrWmYpimg/wTe8g3y/tM3ZmenRVX20jQtDzBN0aI9u0wmQzabJZVKEZ4PEwqGyBganZ51M/T0DjL15TOBXyEURUU3DNHq/HyYSERicVEiPB9BkpaIRmNCduJwOMLCQoT2jh427DgsHrkAtl93Mzw8zsjoK16Ov+HJsxGG/WNiP+If57l/DP/oOP6Xr3gx9lrYN2/f4fb1U324lT37m9f8lN8EMMgnXuL4GQAAAABJRU5ErkJggg=="},"images":{"fallback":{"src":"/static/23670ba7a0c6b97441d4725c4289b4f0/d2194/reqress.png","srcSet":"/static/23670ba7a0c6b97441d4725c4289b4f0/cebcc/reqress.png 175w,\n/static/23670ba7a0c6b97441d4725c4289b4f0/272cf/reqress.png 350w,\n/static/23670ba7a0c6b97441d4725c4289b4f0/d2194/reqress.png 700w","sizes":"(min-width: 700px) 700px, 100vw"},"sources":[{"srcSet":"/static/23670ba7a0c6b97441d4725c4289b4f0/9aa63/reqress.avif 175w,\n/static/23670ba7a0c6b97441d4725c4289b4f0/e6db6/reqress.avif 350w,\n/static/23670ba7a0c6b97441d4725c4289b4f0/f47db/reqress.avif 700w","type":"image/avif","sizes":"(min-width: 700px) 700px, 100vw"},{"srcSet":"/static/23670ba7a0c6b97441d4725c4289b4f0/240e7/reqress.webp 175w,\n/static/23670ba7a0c6b97441d4725c4289b4f0/faefe/reqress.webp 350w,\n/static/23670ba7a0c6b97441d4725c4289b4f0/d5dc4/reqress.webp 700w","type":"image/webp","sizes":"(min-width: 700px) 700px, 100vw"}]},"width":700,"height":438}}},"tech":["Katalon Studio","API","Manual Testing","Groovy"],"github":null,"external":"https://github.com/SyarifRH/WebService-Reqress.in","cta":"https://github.com/SyarifRH/WebService-Reqress.in"},"html":"<p>Testing the API or Web Service from the <a href=\"https://reqres.in/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">reqress.in</a> website.</p>"}}]}}}
+{
+  "data": {
+    "featured": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "FGA Kominfo x Binar Academy",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACyUlEQVQ4y4WR2U8TURyF+3/omyiugEqlolhQEYlLS9VW0WhQEDcWlwjuGvXB8MCDESkg1RgXFjU+uCRoNC7hxUdjNJpo6VCotp3O2mKFz8xMJEhMnOTL+d0795x7JmOb53BhMDdvPX9mg9mL1jPLbjFxnnhussfANvGFpZaxZM0Gtm/14fV6WevayLZyH1s2e8ktcDN7QvDkUNvkG3KWlJnkLvOwyOnB7vSMz4uLPOQWeMjJLyM73/3Ptra5ecbC2jDIWuzG7tzIgqUeFhZswO7cRN5yH3anF3uhF8dyH3lFPuYv8ZDlcDPH9LlMn+G3zXOswyDLYYRZZOe7TKOhM+aXMD2nmOnZxaZmZK8kI2sF03KKmZFbwsKlbtOfuaDUali+q5aDJy6w9/ApahvOUdNwlur645xvusLJ801U7jvE7gOH2VNzhH31jVTXHGFnVQ076o5SfeIY7f52LjW3sGJNObPs67CdudhMx40u2gJ3CNzs5sbt+/Q+fsbDpy+IxkT+9/xMp01tv97DlMxCbBVVtSxzFlNSWsaq1S7z9qev+nn55h1iQkbTVARBYDgSQdN0NE0bR9d1ZFkxA/2BbqbOLMRWV9dARdVeKvfXU7H7AI2nL/D4dT9P3vYTiYuIssxgJMI3QUAYHkZJJk1kXUdRVOJx6yvajECjYfO1u7wfFBiTVUYTKr/iMumYhBaNgqyDkmJM0kBNgTYCyTToI5D6hSoriGLCatjZZTU8fjlA38cQAUnhyvcftMkKflWjQ0+Z2ppM0aJq+JMp/LJCqyRzNZmiQ9UZSkiIsdjfga2dt/gYDPEgFOLuly/0DgS5J4ToCgbpCYXoDYe5Fx6kWwjRY+wNBAl8/krnh898TySQpEkNWzrvEB6OMCZJjMRipMU4o4kEP81ZJB2Pg6Kaa2VoiJFolMjXMMFPAzzve8GD3keMjqbH//Jvy6G0assqnjcAAAAASUVORK5CYII="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/6269497d6dce7e0f86a6fabb777deb56/d2194/binarAcademy.png",
+                        "srcSet": "/static/6269497d6dce7e0f86a6fabb777deb56/cebcc/binarAcademy.png 175w,\n/static/6269497d6dce7e0f86a6fabb777deb56/272cf/binarAcademy.png 350w,\n/static/6269497d6dce7e0f86a6fabb777deb56/d2194/binarAcademy.png 700w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/6269497d6dce7e0f86a6fabb777deb56/9aa63/binarAcademy.avif 175w,\n/static/6269497d6dce7e0f86a6fabb777deb56/e6db6/binarAcademy.avif 350w,\n/static/6269497d6dce7e0f86a6fabb777deb56/f47db/binarAcademy.avif 700w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/6269497d6dce7e0f86a6fabb777deb56/240e7/binarAcademy.webp 175w,\n/static/6269497d6dce7e0f86a6fabb777deb56/faefe/binarAcademy.webp 350w,\n/static/6269497d6dce7e0f86a6fabb777deb56/d5dc4/binarAcademy.webp 700w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 438
+                  }
+                }
+              },
+              "tech": ["Test Case", "Bug Reports", "Manual Testing", "Postman Rest API", "Trello"],
+              "github": null,
+              "external": null,
+              "cta": null
+            },
+            "html": "<p>Bootcamp program that learns to become Quality Assurance with strong fundamentals for software quality testing organized by <a href=\"https://digitalent.kominfo.go.id/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Digitalent Kominfo</a> with <a href=\"https://www.binaracademy.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Binar Academy</a>.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Bootcamp Quality Assurance",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAC1UlEQVQ4y12R30tTcRjGd91Fd5XRNKu5qTnndJubc/7qF6XpplMroygLwrCIfkB10f/QRUVRu6ksiSiDwqKLoC4CgyiyUmm0s5xzm2cez9Z+5Sd2ZrX8wsP7fJ/3eZ/3ezgqvbWDitp2sjUf5ZZ2ysw55PPl3uV3Vb6Q47nBHa1dHOjrpaenm7YON/v39bJ3Tw8mh1NZkPX+mc3nqnzBUOekyu5SanW9C0tjJ+bGTkwNLqXamjupcbiotDkxZn02J8sfpNIrghO9zUWVvXMJXf9qfRdGexfGerfCqx1uahxuTI3dCq+syy34F2jtoMzYSLHWRLHOiqbSQXGphcISC2qNmfU6Kxs22ykqrUWtsVCwvopVRVWsVmCgUGtFa9xJmakt98nZ9IrqBkoMVgp1VkpMLZTXNrDRUEdxhR21tpYK8xaadvaytXU/29u6adnhwta8G2tTGy27eml1H8O+rY9y825U2ppWinQW1mgMrCwoo0BjYVOljcJyG2u1NlasKuXYiQtkT3R+gYVYnFhMRlrIIRqdV3qXr91GXdqMau/BU5w8NMBRVx/9/YP0nzjPkcGzDJy+yOC5SxweOMOd4Ufkn5mZAILwnZgs/9Wue4ZZp2tCdffKTbyDx3mj1zN29QqTn8YJjE8gCgKx4AxyYJqfoqgMSVIMQQgjigmi0SSSJDO31Lt2634u8M6tIWZHHjPh8TB59x7jT+7zYfQ230ZG+Dw0xEePB+H1a2VIluOEQhKynEaSkiSTKRKJxP+BDx4/z21PpUhkfiGlZcLpCFFZ5rsgMOn1EgyHFU88HsPv9xEJh0gk4iwu/iKTyfwNVGcDhx8+g0wawecjEokwPxNgbmqS0Ows36ammPj6hWAwuBT4E/+PacKROZKpFItAMpVe/sJRRRBFETEiMi0H8Ga8yv2H348g+AiFQorHFwgy/PIVL8be8+TNWwVP375TejeWfspv3lKV05kG5VEAAAAASUVORK5CYII="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/792d80fef0579e0514a753ad699d21b1/d2194/Sanbercode.png",
+                        "srcSet": "/static/792d80fef0579e0514a753ad699d21b1/cebcc/Sanbercode.png 175w,\n/static/792d80fef0579e0514a753ad699d21b1/272cf/Sanbercode.png 350w,\n/static/792d80fef0579e0514a753ad699d21b1/d2194/Sanbercode.png 700w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/792d80fef0579e0514a753ad699d21b1/9aa63/Sanbercode.avif 175w,\n/static/792d80fef0579e0514a753ad699d21b1/e6db6/Sanbercode.avif 350w,\n/static/792d80fef0579e0514a753ad699d21b1/f47db/Sanbercode.avif 700w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/792d80fef0579e0514a753ad699d21b1/240e7/Sanbercode.webp 175w,\n/static/792d80fef0579e0514a753ad699d21b1/faefe/Sanbercode.webp 350w,\n/static/792d80fef0579e0514a753ad699d21b1/d5dc4/Sanbercode.webp 700w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 438
+                  }
+                }
+              },
+              "tech": [
+                "Python",
+                "Manual Tesing",
+                "Automation Testing",
+                "Test Plan, Case, Bug Reports",
+                "Testing API Postman",
+                null
+              ],
+              "github": "https://github.com/SyarifRH/SanbercodeQA-Kelompok14",
+              "external": "https://github.com/SyarifRH/SanbercodeQA-Kelompok14",
+              "cta": null
+            },
+            "html": "<p>Perform Manual and Automation tests with documentation of test plans, cases, scenarios, bug reports, with Selenium Web Driver automation tools by <a href=\"https://sanbercode.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Sanbercode</a>.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Web Services Restfull API",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACsElEQVQ4y3WTy08TURSH+UuIEZ9EaTWIPGLEJyJGUQoqRuOWpUs3rlgoCyXQ0moQQcXgQg1SETTG6AYiGqMLA6iptJQy0HY603ZmOu3wmblNUYje5Jdz7rm533nk3qKdlacoaMfek0K2X1pxku178vrbL5wX7HoV/Q0r+PbFuoYmLl04S0tLMydOubjYepbz51oo39coEqwvYBVYCDiqG1e1e18TFbVNVB5wUXXQxd5al/BrDjVTUevCWXMGR/VpobKqxjXQIjtgq8RRx8ayo5SU1bHFWc9mZz0ljmNsctSJMztu7zc787GNO48Ibd19fE2HRVt21bOtvIH2jm663X3c6Oqho8dLl/c23t77+Poec6dviNt9Q/juPsDdO4ind4iuO4/wDjzlcttVkcQuSgDbrlzD471HIPCTjJ7CMNMoaRlpOYK0JBFLqBiGjpkx0HQVNamQTCaFVoCbnnsUlx7CWXM6D+zyDTA9M0sgFOb7rxCmkUGWFcILSyTUNDFZJZXW0DQdXTdQVRVJkoTA4pa7fx3Qe5+JiQ/MRWJMByWikkQsHsc0M8AK2azJimWRsywsy8IwDEwzSy5nYa/OngGKSw/+AXb7HjA5+ZHQYoSZwA+khUVkWSYWixOPy8TjceREgmRSFTahKORyuf8DO30PeT/1lVAwyFxgTsxGUfJzSqfSRJejLC9H0XUdM5slrWmYpimg/wTe8g3y/tM3ZmenRVX20jQtDzBN0aI9u0wmQzabJZVKEZ4PEwqGyBganZ51M/T0DjL15TOBXyEURUU3DNHq/HyYSERicVEiPB9BkpaIRmNCduJwOMLCQoT2jh427DgsHrkAtl93Mzw8zsjoK16Ov+HJsxGG/WNiP+If57l/DP/oOP6Xr3gx9lrYN2/f4fb1U324lT37m9f8lN8EMMgnXuL4GQAAAABJRU5ErkJggg=="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/23670ba7a0c6b97441d4725c4289b4f0/d2194/reqress.png",
+                        "srcSet": "/static/23670ba7a0c6b97441d4725c4289b4f0/cebcc/reqress.png 175w,\n/static/23670ba7a0c6b97441d4725c4289b4f0/272cf/reqress.png 350w,\n/static/23670ba7a0c6b97441d4725c4289b4f0/d2194/reqress.png 700w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/23670ba7a0c6b97441d4725c4289b4f0/9aa63/reqress.avif 175w,\n/static/23670ba7a0c6b97441d4725c4289b4f0/e6db6/reqress.avif 350w,\n/static/23670ba7a0c6b97441d4725c4289b4f0/f47db/reqress.avif 700w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/23670ba7a0c6b97441d4725c4289b4f0/240e7/reqress.webp 175w,\n/static/23670ba7a0c6b97441d4725c4289b4f0/faefe/reqress.webp 350w,\n/static/23670ba7a0c6b97441d4725c4289b4f0/d5dc4/reqress.webp 700w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 438
+                  }
+                }
+              },
+              "tech": ["Katalon Studio", "API", "Manual Testing", "Groovy"],
+              "github": null,
+              "external": "https://github.com/SyarifRH/WebService-Reqress.in",
+              "cta": "https://github.com/SyarifRH/WebService-Reqress.in"
+            },
+            "html": "<p>Testing the API or Web Service from the <a href=\"https://reqres.in/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">reqress.in</a> website.</p>"
+          }
+        }
+      ]
+    }
+  }
+}
