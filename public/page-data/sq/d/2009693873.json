@@ -5,6 +5,18 @@
         {
           "node": {
             "frontmatter": {
+              "title": "Quality Assurance Engineer",
+              "company": "Konect Platform Semesta",
+              "location": "Purwokerto",
+              "range": "April - Present",
+              "url": "https://konect.id/"
+            },
+            "html": "<ul>\n<li>Manual &#x26; Automate Software testing</li>\n<li>Testing API.</li>\n<li>Identifies performance defects</li>\n<li>Using GIT, Github for integration.</li>\n<li>JMeter / K6 Performance Testing</li>\n<li>Develops test cases and tests scripts based on functional requirements.</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
               "title": "Bootcamp Quality Assurance",
               "company": "FGA Academy x Binar Academy",
               "location": "Jakarta",

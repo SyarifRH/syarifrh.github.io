@@ -65,9 +65,13 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      I am Quality Assurance doing software quality Currently, looking for a job in{' '}
-        <a href="https://www.linkedin.com/in/syarif-ridhohidayatulloh/" target="_blank" rel="noreferrer">
-          Software Quality Assurance
+        I am a Quality Assurance Engineer based in Purwokerto, Indonesia, I specialize in high{' '}
+        <a
+          href="https://www.linkedin.com/in/syarif-ridhohidayatulloh/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          quality software
         </a>
         .
       </p>
@@ -78,7 +82,8 @@ const Hero = () => {
       className="email-link"
       href="#about"
       // target="_blank"
-      rel="noreferrer">
+      rel="noreferrer"
+    >
       Find me!
     </a>
   );
