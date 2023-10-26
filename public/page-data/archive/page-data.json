@@ -38,6 +38,27 @@
           {
             "node": {
               "frontmatter": {
+                "date": "2023-03-01",
+                "title": "FGA Kominfo x Binar Academy",
+                "tech": [
+                  "Test Case",
+                  "Bug Reports",
+                  "Manual Testing",
+                  "Postman Rest API",
+                  "Trello"
+                ],
+                "github": "https://github.com/SyarifRH/SoftwareTesting-Seconghand.BinarAcademy",
+                "external": "https://secondhand.binaracademy.org/",
+                "ios": null,
+                "android": null,
+                "company": ""
+              },
+              "html": "<p>Bootcamp program that learns to become Quality Assurance with strong fundamentals for software quality testing organized by Digitalent Kominfo with Binar Academy.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
                 "date": "2023-02-12",
                 "title": "Software Testing - Demoblaze",
                 "tech": ["Selenium Web Driver", "Phyton", "Pytest", "Spreadsheet"],
@@ -78,6 +99,28 @@
                 "company": "Javan"
               },
               "html": "<p>Manual and Automatic Testing uses Cypress.io with the Javascript programming language in <a href=\"https://github.com/SyarifRH/Tester-Javan.co.id\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Javan</a> that has been integrated with Github.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2023-01-01",
+                "title": "Bootcamp Quality Assurance - Sanbercode",
+                "tech": [
+                  "Python",
+                  "Manual Tesing",
+                  "Automation Testing",
+                  "Test Plan, Case",
+                  "Bug Reports",
+                  "Testing API Postman"
+                ],
+                "github": "https://github.com/SyarifRH/SanbercodeQA-Kelompok14",
+                "external": "",
+                "ios": null,
+                "android": null,
+                "company": "Sanbercode"
+              },
+              "html": "<p>Perform Manual and Automation tests with documentation of test plans, cases, scenarios, bug reports, with Selenium Web Driver automation tools by Sanbercode.</p>"
             }
           },
           {
