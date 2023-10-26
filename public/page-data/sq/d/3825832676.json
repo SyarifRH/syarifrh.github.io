@@ -5,6 +5,105 @@
         {
           "node": {
             "frontmatter": {
+              "title": "Software Testing - NPC Indonesia",
+              "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
+              "github": "",
+              "external": "https://www.npcindonesia.or.id/"
+            },
+            "html": "<p>The official Paralympic platform that provides information about various sports, events, news and athlete profiles related to the Paralympic Games under the auspices of the National Paralympic Committee (NPC)</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Software Testing - Humanusia",
+              "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
+              "github": "",
+              "external": "https://www.humanusia.id/"
+            },
+            "html": "<p>Humanusia is an HRIS-based application specifically designed to manage information and processes related to human resource management in an agency.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Software Testing - Konect Hub",
+              "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
+              "github": "",
+              "external": "https://www.hub.konect.id/"
+            },
+            "html": "<p>Web-based marketplace platform that helps connect event professionals and vendors with eventhunters around the world.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Software Testing - Konect Konference",
+              "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
+              "github": "",
+              "external": "https://www.konect.id/"
+            },
+            "html": "<p>Konect Konferences is a platform or service utilized for hosting virtual conferences or meetings online. This platform provides tools and features that enable individuals to communicate, collaborate, and interact in a virtual environment, without the need for physical in-person gatherings.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Software Testing - Pola Poli",
+              "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
+              "github": "",
+              "external": "https://polapoli.id/"
+            },
+            "html": "<p>Polapoli understands, reaches out to and engages your constituents through various social media platforms with the aim of increasing good relations, trust, measuring your performance as a people's representative, so that you can be re-elected in the next General Election.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Software Testing - Banyumax",
+              "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
+              "github": "",
+              "external": "https://www.banyumax.id/"
+            },
+            "html": "<p>A web and mobile-based application specifically designed to make it easier for digital marketing business people to carry out their business activities.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Software Testing - Abad",
+              "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
+              "github": "",
+              "external": "https://abad.id/"
+            },
+            "html": "<p>ABAD.ID is an online media initiated by PT. ABAD HERITAGE NUSANTARA and domiciled in Surabaya. This company was founded by 7 people from multidisciplinary disciplines, but has the same fascination regarding: Culture, History, Tourism and Culinary in the archipelago. So Abad.id is more inclined to discuss these four materials intensively from various points of view.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Software Testing - Croya",
+              "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
+              "github": "",
+              "external": "https://www.croya.id/"
+            },
+            "html": "<p>Croya is CRM software designed to help companies increase efficiency and effectiveness in customer management. With Croya, companies can collect and analyze customer data, organize tasks and schedules, and track customer interactions.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Software Testing - Positive Gym Mobile Apps",
+              "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
+              "github": "",
+              "external": "https://play.google.com/store/apps/details?id=com.dev.posapp&pcampaignid=web_share"
+            },
+            "html": "<p>An effective gym management system, gym integration, manage membership, classes, personal trainers to manage gym equipment easily.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
               "title": "Web Services - Reqress.in",
               "tech": ["Katalon Studio"],
               "github": "https://github.com/SyarifRH/WebService-Reqress.in",

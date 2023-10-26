@@ -1,10 +1,10 @@
 ---
 date: '2023-04-26'
 title: 'Quality Assurance Engineer'
-company: 'Konect Platform Semesta'
+company: 'Mahardika Adidaya'
 location: 'Purwokerto'
 range: 'April - Present'
-url: 'https://konect.id/'
+url: ''
 ---
 
 - Manual & Automate Software testing
