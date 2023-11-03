@@ -3,7 +3,7 @@ date: '2023-04-26'
 title: 'Quality Assurance Engineer'
 company: 'Konect Platform Semesta'
 location: 'Purwokerto'
-range: 'April - Present'
+range: 'April - November 2023'
 url: 'https://konect.id/'
 ---
 
