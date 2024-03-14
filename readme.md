@@ -1,1 +1,1 @@
-tTarik
+project yang dideploy netlify
