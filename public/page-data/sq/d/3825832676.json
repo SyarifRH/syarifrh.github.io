@@ -27,34 +27,12 @@
         {
           "node": {
             "frontmatter": {
-              "title": "Software Testing - Konect Hub",
+              "title": "Software Testing - Abad",
               "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
               "github": "",
-              "external": "https://www.hub.konect.id/"
+              "external": "https://abad.id/"
             },
-            "html": "<p>Web-based marketplace platform that helps connect event professionals and vendors with eventhunters around the world.</p>"
-          }
-        },
-        {
-          "node": {
-            "frontmatter": {
-              "title": "Software Testing - Konect Konference",
-              "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
-              "github": "",
-              "external": "https://www.konect.id/"
-            },
-            "html": "<p>Konect Konferences is a platform or service utilized for hosting virtual conferences or meetings online. This platform provides tools and features that enable individuals to communicate, collaborate, and interact in a virtual environment, without the need for physical in-person gatherings.</p>"
-          }
-        },
-        {
-          "node": {
-            "frontmatter": {
-              "title": "Software Testing - Pola Poli",
-              "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
-              "github": "",
-              "external": "https://polapoli.id/"
-            },
-            "html": "<p>Polapoli understands, reaches out to and engages your constituents through various social media platforms with the aim of increasing good relations, trust, measuring your performance as a people's representative, so that you can be re-elected in the next General Election.</p>"
+            "html": "<p>ABAD.ID is an online media initiated by PT. ABAD HERITAGE NUSANTARA and domiciled in Surabaya. This company was founded by 7 people from multidisciplinary disciplines, but has the same fascination regarding: Culture, History, Tourism and Culinary in the archipelago. So Abad.id is more inclined to discuss these four materials intensively from various points of view.</p>"
           }
         },
         {
@@ -71,23 +49,45 @@
         {
           "node": {
             "frontmatter": {
-              "title": "Software Testing - Abad",
-              "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
-              "github": "",
-              "external": "https://abad.id/"
-            },
-            "html": "<p>ABAD.ID is an online media initiated by PT. ABAD HERITAGE NUSANTARA and domiciled in Surabaya. This company was founded by 7 people from multidisciplinary disciplines, but has the same fascination regarding: Culture, History, Tourism and Culinary in the archipelago. So Abad.id is more inclined to discuss these four materials intensively from various points of view.</p>"
-          }
-        },
-        {
-          "node": {
-            "frontmatter": {
               "title": "Software Testing - Croya",
               "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
               "github": "",
               "external": "https://www.croya.id/"
             },
             "html": "<p>Croya is CRM software designed to help companies increase efficiency and effectiveness in customer management. With Croya, companies can collect and analyze customer data, organize tasks and schedules, and track customer interactions.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Software Testing - Konect Konference",
+              "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
+              "github": "",
+              "external": "https://www.konect.id/"
+            },
+            "html": "<p>Konect Konferences is a platform or service utilized for hosting virtual conferences or meetings online. This platform provides tools and features that enable individuals to communicate, collaborate, and interact in a virtual environment, without the need for physical in-person gatherings.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Software Testing - Konect Hub",
+              "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
+              "github": "",
+              "external": "https://www.hub.konect.id/"
+            },
+            "html": "<p>Web-based marketplace platform that helps connect event professionals and vendors with eventhunters around the world.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Software Testing - Pola Poli",
+              "tech": ["Manual Testing", "Test Plan, Case", "Bug Reports"],
+              "github": "",
+              "external": "https://polapoli.id/"
+            },
+            "html": "<p>Polapoli understands, reaches out to and engages your constituents through various social media platforms with the aim of increasing good relations, trust, measuring your performance as a people's representative, so that you can be re-elected in the next General Election.</p>"
           }
         },
         {
@@ -115,23 +115,23 @@
         {
           "node": {
             "frontmatter": {
-              "title": "Portfolio-Personal V1",
-              "tech": ["Javascript", "PHP", "CSS", "Github"],
-              "github": "https://github.com/SyarifRH/syarifrh.github.io.v1",
-              "external": ""
-            },
-            "html": "<p>My project portfolio is version 1, and it's still static</p>"
-          }
-        },
-        {
-          "node": {
-            "frontmatter": {
               "title": "FGA Kominfo x Binar Academy",
               "tech": ["Test Case", "Bug Reports", "Manual Testing", "Postman Rest API", "Trello"],
               "github": "https://github.com/SyarifRH/SoftwareTesting-Seconghand.BinarAcademy",
               "external": "https://secondhand.binaracademy.org/"
             },
             "html": "<p>Bootcamp program that learns to become Quality Assurance with strong fundamentals for software quality testing organized by Digitalent Kominfo with Binar Academy.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Portfolio-Personal V1",
+              "tech": ["Javascript", "PHP", "CSS", "Github"],
+              "github": "https://github.com/SyarifRH/syarifrh.github.io.v1",
+              "external": ""
+            },
+            "html": "<p>My project portfolio is version 1, and it's still static</p>"
           }
         },
         {

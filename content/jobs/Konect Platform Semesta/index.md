@@ -1,6 +1,6 @@
 ---
 date: '2023-04-26'
-title: 'Quality Assurance Engineer'
+title: 'Software Quality Assurance'
 company: 'Konect Platform Semesta'
 location: 'Purwokerto'
 range: 'April - November 2023'

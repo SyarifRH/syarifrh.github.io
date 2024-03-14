@@ -5,7 +5,19 @@
         {
           "node": {
             "frontmatter": {
-              "title": "Quality Assurance Engineer",
+              "title": "Software Quality Control",
+              "company": "Aksaramaya",
+              "location": "Purwokerto",
+              "range": "February - Present",
+              "url": "https://aksaramaya.com/"
+            },
+            "html": "<ul>\n<li>Manual &#x26; Automate Software testing</li>\n<li>Testing API.</li>\n<li>Identifies functionality defects</li>\n<li>Using GIT, Gitlab for integration and issue.</li>\n<li>Develops test cases and tests scripts based on functional requirements.</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Software Quality Assurance",
               "company": "Konect Platform Semesta",
               "location": "Purwokerto",
               "range": "April - November 2023",
@@ -17,7 +29,7 @@
         {
           "node": {
             "frontmatter": {
-              "title": "Quality Assurance Engineer",
+              "title": "Software Quality Assurance",
               "company": "Mahardika Adidaya",
               "location": "Purwokerto",
               "range": "April - November 2023",
