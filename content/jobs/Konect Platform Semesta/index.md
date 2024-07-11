@@ -8,7 +8,6 @@ url: 'https://konect.id/'
 ---
 
 - Manual & Automate Software testing
-- Testing API.
 - Identifies performance defects
 - Using GIT, Github for integration.
 - JMeter / K6 Performance Testing

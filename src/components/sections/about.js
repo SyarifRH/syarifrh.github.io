@@ -128,9 +128,7 @@ const About = () => {
   const skills = [
     'Python',
     'Selenium',
-    'Appium',
-    'JMeter',
-    'Postman',
+    'Robot Framework',
     'Cypress.io',
     'Katalon Studio',
     'Git',
@@ -145,16 +143,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Syarif Ridhohidayatulloh and I am an experienced QA professional
-              skilled in both manual and automated testing. I am dedicated to continuous learning
-              and implementing the latest trends in software development to ensure that the products
-              I work on meet the highest standards of quality.
+            "We don't make mistakes, we just find them"
+            
             </p>
             <p>
-              My passion for testing and software development began 2022 when I started exploring
-              various testing techniques and tools. Over the years, I have gained expertise in
-              Python, Selenium, Appium, JMeter, Postman, Cypress.io, Github, Katalon Studio, and I
-              am always looking for new challenges to further enhance my skills.
+              I am a graduate of Informatics from Amikom University, Purwokerto, with a knack for adaptability and teamwork. I excel at identifying opportunities within problems, with a focus on turning them into practical solutions. I prioritize logic and data-driven decision-making. I actively collaborate with team members to discuss and implement creative ideas in problem-solving.
             </p>
 
             {/* <p>

@@ -7,8 +7,8 @@ range: 'February - Present'
 url: 'https://aksaramaya.com/'
 ---
 
-- Manual & Automate Software testing
-- Testing API.
+- Manual Test
+- Automate Test
 - Identifies functionality defects
 - Using GIT, Gitlab for integration and issue.
 - Develops test cases and tests scripts based on functional requirements.

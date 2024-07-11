@@ -1,13 +1,1 @@
-{
-  "data": {
-    "site": {
-      "siteMetadata": {
-        "defaultTitle": "Syarif Ridhohidayatulloh",
-        "defaultDescription": "Syarif Ridho, I do software quality testing.",
-        "siteUrl": "https://syarifrh.netlify.app",
-        "defaultImage": "/og.png",
-        "twitterUsername": "@bangsyarif_"
-      }
-    }
-  }
-}
+{"data":{"site":{"siteMetadata":{"defaultTitle":"Syarif Ridhohidayatulloh","defaultDescription":"Syarif Ridho, I do software quality testing.","siteUrl":"https://syarifrh.netlify.app","defaultImage":"/og.png","twitterUsername":"@bangsyarif_"}}}}
