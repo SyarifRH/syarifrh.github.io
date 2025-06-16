@@ -1,12 +1,14 @@
 ---
 date: '2'
-title: 'Humanusia'
-cover: './humanusia.png'
+title: 'Khastara'
+cover: './2.png'
 github: ''
-external: 'https://www.humanusia.id/'
+external: 'https://khastara.perpusnas.go.id/'
 tech:
-  - Manual Testing Website & Mobile Apps
-  - Test Plan, Case, Bug Reports
+  - Manual Testing Website
+  - Test Plan, Case
+  - Bug Reports
 ---
 
-Humanusia is an HRIS-based application specifically designed to manage information and processes related to human resource management in an agency. <br> by [Mahardika Adidaya](https://www.humanusia.id/).
+Khastara is the official digital portal of the National Library of Indonesia, providing access to the nation's cultural heritage collections, including ancient manuscripts, rare books, maps, photographs, and historical documents. The website serves as a digital repository aimed at preserving and making Indonesia’s intellectual heritage accessible to the public.
+<br> by [Aksaramaya](https://aksaramaya.com/en/).

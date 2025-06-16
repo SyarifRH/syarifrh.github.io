@@ -1,13 +1,14 @@
 ---
 date: '1'
-title: 'Konectverse'
+title: 'edoo'
 cover: './1.png'
 github: ''
-external: 'https://www.konect.id/'
+external: 'https://app.edoo.id/'
 tech:
   - Test Case
   - Bug Reports
   - Manual Testing
+  - Automation Testing
 ---
 
-Konectverse is a combination of projects consisting of Konect Konference, Konect Hub, Pola Poli, etc. <br> by [Konect Platform Semesta](https://konect.id/).
+Edoo is a digital library platform designed to support teaching and learning activities, both online and offline, in schools and universities. Edoo provides various features such as e-Class, exam modules, tryouts, and social media features for interaction between users. In addition, Edoo is also equipped with Digital Rights Management (DRM) technology to protect digital content. <br> by [Aksaramaya](https://aksaramaya.com/en/).
