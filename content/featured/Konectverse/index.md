@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Konectverse'
-cover: './konect.png'
+cover: './1.png'
 github: ''
 external: 'https://www.konect.id/'
 tech:
