@@ -10,10 +10,10 @@ module.exports = {
       name: 'Instagram',
       url: 'https://www.instagram.com/bangsyarif_',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bangsyarif_',
-    },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/bangsyarif_',
+    // },
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/syarif-ridhohidayatulloh',

@@ -127,6 +127,7 @@ const About = () => {
 
   const skills = [
     'Python',
+    'JavaScript',
     'Selenium',
     'Robot Framework',
     'Cypress.io',
