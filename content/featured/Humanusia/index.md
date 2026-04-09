@@ -11,4 +11,5 @@ tech:
 ---
 
 Khastara is the official digital portal of the National Library of Indonesia, providing access to the nation's cultural heritage collections, including ancient manuscripts, rare books, maps, photographs, and historical documents. The website serves as a digital repository aimed at preserving and making Indonesia’s intellectual heritage accessible to the public.
-<br> by [Aksaramaya](https://aksaramaya.com/en/).
+<!-- 
+<br> by [Aksaramaya](https://aksaramaya.com/en/). -->

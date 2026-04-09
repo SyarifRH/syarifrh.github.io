@@ -10,4 +10,6 @@ tech:
   - Test Plan, Case, Bug Reports
 ---
 
-iLibrary is a digital library platform that has partnered with government institutions, educational organizations, and over 200 regencies and cities across Indonesia to provide integrated digital library services within public service systems. <br> by [Aksaramaya](https://aksaramaya.com/en/).
+iLibrary is a digital library platform that has partnered with government institutions, educational organizations, and over 200 regencies and cities across Indonesia to provide integrated digital library services within public service systems. 
+
+<!-- <br> by [Aksaramaya](https://aksaramaya.com/en/). -->

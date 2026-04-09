@@ -1,10 +1,10 @@
 ---
 date: '2024-01-26'
-title: 'Software Quality Control'
-company: 'Aksaramaya'
-location: 'Purwokerto'
+title: 'QA Engineer'
+company: 'Freelance/Sidejob QA Engineer'
+location: 'Remote'
 range: 'February - Present'
-url: 'https://aksaramaya.com/'
+url: ''
 ---
 
 - Manual Test
