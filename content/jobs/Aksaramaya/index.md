@@ -1,7 +1,7 @@
 ---
 date: '2024-01-26'
 title: 'QA Engineer'
-company: 'Freelance/Sidejob QA Engineer'
+company: 'Freelance/Sidejob'
 location: 'Remote'
 range: 'February - Present'
 url: ''
